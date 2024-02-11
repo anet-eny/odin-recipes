@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(153, 98, 242);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+h1 {
+    color: wheat;
+    border: 5px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+
+.list {
+    list-style: square;
+    color: wheat;
+}
+
+a, a:visited {
+    color: wheat;
+    text-decoration: none;
+}
