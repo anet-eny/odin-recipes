@@ -19,13 +19,6 @@ h1 {
     border-color: blueviolet;
 }
 
-.list {
-    list-style: none;
-    color: wheat;
-    text-align: center;
-    margin: auto;
-}
-
 a, a:visited {
     color: wheat;
     text-decoration: none;
