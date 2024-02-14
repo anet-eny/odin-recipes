@@ -14,15 +14,19 @@ body {
 
 h1 {
     color: wheat;
-    border: 5px;
     text-align: center;
     padding: 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
     background-color: rgba(188, 78, 205, 0.292);
 }
 
 p {
     text-align: center;
     background-color: rgba(188, 78, 205, 0.292);
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 a, a:visited {
     color: wheat;
