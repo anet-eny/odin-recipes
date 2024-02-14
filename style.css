@@ -5,6 +5,13 @@ body {
     
 }
 
+.recipes-card {
+    margin: auto;
+    padding: 6px;
+    background-color: rgb(96, 39, 146);
+    max-width: 600px;
+}
+
 h1 {
     color: wheat;
     border: 5px;
@@ -13,8 +20,10 @@ h1 {
 }
 
 .list {
-    list-style: square;
+    list-style: none;
     color: wheat;
+    text-align: center;
+    margin: auto;
 }
 
 a, a:visited {
